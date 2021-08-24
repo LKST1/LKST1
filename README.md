@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=LKST1&count_private=true&show_icons=true&theme=dark" alt="Github Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=LKST1&count_private=true&show_icons=true&theme=great-gatsby" alt="Github Stats"/>
 </p>
 
 [youtube]: https://www.youtube.com/channel/UCmpic1iFlJz0Ff_kkKrPijw
