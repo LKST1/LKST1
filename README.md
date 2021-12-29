@@ -1,4 +1,4 @@
-# I'm Egyptian Bot Developer, Leaker 
+# I'm Egyptian Bot Developer
 
 #### Working with python 
 
